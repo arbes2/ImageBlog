@@ -1,7 +1,9 @@
 img {
 	width: 30%;
+	height: 300px;
 	float: left;
-	margin: 1.66%;
+	margin: 1%;
+	border: 2px solid black;
 }
 
 p {
